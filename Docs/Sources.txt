@@ -1,0 +1,70 @@
+Header, Background
+https://unsplash.com/photos/lOCs_CdxfAA (Hossam M. Omar)
+https://unsplash.com/photos/3SNXIIXaB54 (Hossam M. Omar)
+https://unsplash.com/photos/iL5hoimuj54 (Alessandro Zanini)
+
+Header, Crop Images
+https://imageresizer.com/
+
+Methods, Colosseum, Img
+https://unsplash.com/photos/mCLvY_GsdW8 (Moritz Kindler)
+
+Methods, History Img
+https://unsplash.com/photos/iu2laRwK5PY (Omar Elsharawy)
+
+Methods, Interviews, Img
+https://unsplash.com/photos/W3Jl3jREpDY (LinkedIn Sales Solutions)
+
+Methods, Testing, Img
+https://unsplash.com/photos/AIIC6wCqkQc (Sigmund)
+
+Milestones, Colosseum, Icon
+https://www.freepik.com/free-vector/travel-sticker-collection_3810564.htm#page=1&query=Colosseum&position=15&from_view=search (freepik)
+
+Milestones, Colosseum, Img
+https://unsplash.com/photos/gl977Jmphx0 (Lea Stander)
+
+Milestones, Digital Environment, Icon
+https://www.freepik.com/free-vector/globe-geography-education-icon-vector-neon-digital-graphic_18711421.htm#page=1&query=Digital%20Environment&position=39&from_view=search (rawpixel.com)
+
+Milestones, Digital, Icon
+https://www.freepik.com/free-vector/program-product-buying-addition-installation-concept-developing-creation-website_2909675.htm#page=1&query=Application&position=10&from_view=search (fullvector)
+
+Milestones, History, Icon
+https://www.flaticon.com/free-icon/sphinx_520060 (Freepik)
+
+Milestones, History, Img
+https://unsplash.com/photos/zruwsJh-lOI (Nada Habashy)
+
+Milestones, Laptop, Img
+https://unsplash.com/photos/xrVDYZRGdw4 (Emile Perron)
+
+Mission Milestones, History Img
+https://unsplash.com/photos/fHwHLpHKtTE (Hossam M. Omar)
+
+Mission Milestones, Modeling, Img
+https://unsplash.com/photos/Hatkch_piQM (Shubham Dhage)
+
+Objectives, Digital, Icons
+https://www.freepik.com/search?format=search&page=1&query=digital&type=vector%2Cicon
+https://www.freepik.com/free-vector/set-hand-gestures-blue-polygonal-wireframe-style-luminescent_7200950.htm#page=1&query=digital&position=49 (macrovector)
+
+Objectives, Future, Icon
+https://www.freepik.com/free-vector/man-moving-clock-arrows-managing-time_11235693.htm#page=1&query=Clock&position=2 (pch.vector)
+
+Objectives, Past, Icon
+https://www.freepik.com/free-vector/realistic-egyptian-symbols-gods-collection_2764445.htm#page=1&query=Sphinx&position=8 (freepik)
+https://www.freepik.com/free-vector/egypt-travel-flat-logo-set-ancient-egyptian-religion-culture-symbols-pyramids-sphinx-statue-pharaoh-sculpture-vector-illustration-collection-egyptology-history-concept_10606426.htm#page=2&query=Sphinx&position=14 (pch vector)
+
+Push files to GitHub
+https://stackoverflow.com/questions/12799719/how-to-upload-a-project-to-github (Ali Yar Khan)
+Git
+
+Visits, Img 1
+https://unsplash.com/photos/Cm30TyiLs_0 (Abdullah Elhariry)
+
+Visits, Img 2
+https://unsplash.com/photos/45xWrNPD7SE (Marc Mueller)
+
+Visits, Img 3
+https://unsplash.com/photos/Mv15X2n8JVE (CALIN STAN)
